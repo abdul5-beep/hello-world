@@ -1,4 +1,4 @@
 # hello-world
 my first repository on GitHub
 
-i love ⚽: ☕:, and 🕺:.
+i love soccer: coffee: dancer:.
